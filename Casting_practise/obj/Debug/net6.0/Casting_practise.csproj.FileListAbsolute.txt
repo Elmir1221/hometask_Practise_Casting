@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\bin\Debug\net6.0\Casting_practise.exe
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\bin\Debug\net6.0\Casting_practise.deps.json
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\bin\Debug\net6.0\Casting_practise.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\bin\Debug\net6.0\Casting_practise.dll
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\bin\Debug\net6.0\Casting_practise.pdb
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.dll
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\refint\Casting_practise.dll
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.pdb
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\Casting_practise.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\Casting_practise\obj\Debug\net6.0\ref\Casting_practise.dll
